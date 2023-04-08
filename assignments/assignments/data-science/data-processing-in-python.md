@@ -1,6 +1,6 @@
 # Data processing in Python
 
-In this assignment, we will ask you to elaborate on the code we have started developing in these [challenges](https://open-academy.github.io/machine-learning/data-science/working-with-data/numpy.html#your-turn). The assignment consists of two parts:
+In this assignment, we will ask you to elaborate on the code we have started developing in these [challenges](https:\\/\\/open-academy.github.io\\/machine-learning\\/data-science\\/working-with-data\\/numpy.html#your-turn). The assignment consists of two parts:
 
 ## COVID-19 spread modeling
 
@@ -13,7 +13,7 @@ In this assignment, we will ask you to elaborate on the code we have started dev
 
 - [ ] Build a co-occurrence matrix of different medications, and see which medications often occur together (i.e. mentioned in one abstract). You can modify the code for building a co-occurrence matrix for medications and diagnoses.
 - [ ] Visualize this matrix using a heatmap.
-- [ ] As a stretch goal, visualize the co-occurrence of medications using the [chord diagram](https://en.wikipedia.org/wiki/Chord_diagram). [This library](https://pypi.org/project/chord/) may help you draw a chord diagram.
+- [ ] As a stretch goal, visualize the co-occurrence of medications using the [chord diagram](https:\\/\\/en.wikipedia.org\\/wiki\\/Chord_diagram). [This library](https:\\/\\/pypi.org\\/project\\/chord\\/) may help you draw a chord diagram.
 - [ ] As another stretch goal, extract dosages of different medications (such as **400mg** in *taking 400mg of chloroquine daily*) using regular expressions and build dataframe that shows different dosages for different medications. **Note**: consider numeric values that are in close textual vicinity of the medicine name.
 
 ## Rubric
@@ -24,4 +24,4 @@ All tasks are complete, graphically illustrated and explained, including at leas
 
 ## Acknowledgments
 
-Thanks to Microsoft for creating the open-source course [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners). It inspires the majority of the content in this chapter.
+Thanks to Microsoft for creating the open-source course [Data Science for Beginners](https:\\/\\/github.com\\/microsoft\\/Data-Science-For-Beginners). It inspires the majority of the content in this chapter.
