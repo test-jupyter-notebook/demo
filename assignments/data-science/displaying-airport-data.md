@@ -1,6 +1,6 @@
 # Displaying airport data
 
-You have been provided a <a href="../../assets/data/airports.db">database</a> built on [SQLite](https://sqlite.org/index.html) which contains information about airports. The schema is displayed below. You will use the [SQLite extension](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) in [Visual Studio Code](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) to display information about different cities' airports.
+You have been provided a <a href="https:\\/\\/test-jupyter-notebook.github.io\\/static\\/assets\\/data\\/airports.db">database<\\/a> built on [SQLite](https:\\/\\/sqlite.org\\/index.html) which contains information about airports. The schema is displayed below. You will use the [SQLite extension](https:\\/\\/marketplace.visualstudio.com\\/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) in [Visual Studio Code](https:\\/\\/code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) to display information about different cities' airports.
 
 ## Instructions
 
@@ -10,14 +10,14 @@ To get started with the assignment, you'll need to perform a couple of steps. Yo
 
 You can use Visual Studio Code and the SQLite extension to interact with the database.
 
-1. Navigate to [code.visualstudio.com](https://code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) and follow the instructions to install Visual Studio Code
-1. Install the [SQLite extension](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) extension as instructed on the Marketplace page
+1. Navigate to [code.visualstudio.com](https:\\/\\/code.visualstudio.com?WT.mc_id=academic-77958-bethanycheum) and follow the instructions to install Visual Studio Code
+1. Install the [SQLite extension](https:\\/\\/marketplace.visualstudio.com\\/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum) extension as instructed on the Marketplace page
 
 ### Download and open the database
 
 Next, you will download and open the database.
 
-1. Download the database file <a href="../../assets/data/airports.db">database</a> and save it to a directory
+1. Download the database file <a href="https:\\/\\/test-jupyter-notebook.github.io\\/static\\/assets\\/data\\/airports.db">database<\\/a> and save it to a directory
 2. Open Visual Studio Code
 3. Open the database in the SQLite extension by selecting **Ctl-Shift-P** (or **Cmd-Shift-P** on a Mac) and typing `SQLite: Open database`
 4. Select **Choose database from the file** and open the **airports.db** file you downloaded previously
@@ -26,7 +26,7 @@ Next, you will download and open the database.
 Once open, the new query window can be used to run SQL statements against the database. You can use the command **Ctl-Shift-Q** (or **Cmd-Shift-Q** on a Mac) to run queries against the database.
 
 ```{note}
-For more information about the SQLite extension, you can consult the [documentation](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum)
+For more information about the SQLite extension, you can consult the [documentation](https:\\/\\/marketplace.visualstudio.com\\/items?itemName=alexcvzz.vscode-sqlite&WT.mc_id=academic-77958-bethanycheum)
 ```
 
 ## Database schema
@@ -63,4 +63,4 @@ Create queries to return the following information:
 
 ## Acknowledgments
 
-Thanks to Microsoft for creating the open-source course [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners). It inspires the majority of the content in this chapter.
+Thanks to Microsoft for creating the open-source course [Data Science for Beginners](https:\\/\\/github.com\\/microsoft\\/Data-Science-For-Beginners). It inspires the majority of the content in this chapter.

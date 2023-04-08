@@ -21,8 +21,8 @@ There are several different libraries that are available for data visualization.
 
 | Criteria | Exemplary | Adequate | Needs Improvement |
 | -------- | --------- | -------- | ----------------- |
-|          | A notebook is submitted with two explorations/visualizations         |   A notebook is submitted with one explorations/visualizations       |  A notebook is not submitted                 |
+|          | A notebook is submitted with two explorations\\/visualizations         |   A notebook is submitted with one explorations\\/visualizations       |  A notebook is not submitted                 |
 
 ## Acknowledgments
 
-Thanks to Microsoft for creating the open-source course [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners). It inspires the majority of the content in this chapter.
+Thanks to Microsoft for creating the open-source course [ML-For-Beginners](https:\\/\\/github.com\\/microsoft\\/ML-For-Beginners). It inspires the majority of the content in this chapter.

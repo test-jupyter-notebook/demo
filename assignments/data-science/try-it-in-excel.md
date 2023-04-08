@@ -12,4 +12,4 @@ Did you know you can create donut, pie, and waffle charts in Excel? Using a data
 
 ## Acknowledgments
 
-Thanks to Microsoft for creating the open-source course [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners). It inspires the majority of the content in this chapter.
+Thanks to Microsoft for creating the open-source course [Data Science for Beginners](https:\\/\\/github.com\\/microsoft\\/Data-Science-For-Beginners). It inspires the majority of the content in this chapter.
