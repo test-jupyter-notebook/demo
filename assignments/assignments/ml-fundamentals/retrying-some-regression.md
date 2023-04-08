@@ -27,4 +27,4 @@ In the section, you used a subset of the pumpkin data. Now, go back to the origi
 
 ## Acknowledgments
 
-Thanks to Microsoft for creating the open-source course [ML-For-Beginners](https:\\/\\/github.com\\/microsoft\\/ML-For-Beginners). It inspires the majority of the content in this chapter.
+Thanks to Microsoft for creating the open-source course [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners). It inspires the majority of the content in this chapter.

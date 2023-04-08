@@ -14,7 +14,7 @@ The Explorer interface (shown in the screenshot below) lets you select a dataset
 2. Explore the dataset [Catalog](https:\\/\\/planetarycomputer.microsoft.com\\/catalog) - learn the purpose of each.
 3. Use the Explorer - pick a dataset of interest, select a relevant query & rendering option.
 
-![The Planetary Computer Explorer](https:\\/\\/test-jupyter-notebook.github.io\\/static\\/images\\/planetary-computer-explorer.png)
+![The Planetary Computer Explorer](https:\\/\\/test-jupyter-notebook.github.io\\/static\\/https://test-jupyter-notebook.github.io/static/images\\/planetary-computer-explorer.png)
 
 Your Task:
 

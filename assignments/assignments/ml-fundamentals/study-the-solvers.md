@@ -12,4 +12,4 @@ In this section you learned about the various solvers that pair algorithms with 
 
 ## Acknowledgments
 
-Thanks to Microsoft for creating the open-source course [ML-For-Beginners](https:\\/\\/github.com\\/microsoft\\/ML-For-Beginners). It inspires the majority of the content in this chapter.
+Thanks to Microsoft for creating the open-source course [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners). It inspires the majority of the content in this chapter.

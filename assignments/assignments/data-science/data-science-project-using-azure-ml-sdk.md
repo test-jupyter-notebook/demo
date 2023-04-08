@@ -2,7 +2,7 @@
 
 ## Instructions
 
-We saw how to use the Azure ML platform to train, deploy and consume a model with the Azure ML SDK. Now look around for some data that you could use to train another model, deploy it and consume it. You can look for datasets on [Kaggle](https:\\/\\/kaggle.com) and [Azure Open Datasets](https:\\/\\/azure.microsoft.com\\/services\\/open-datasets\\/catalog?WT.mc_id=academic-77958-bethanycheum&ocid=AID3041109).
+We saw how to use the Azure ML platform to train, deploy and consume a model with the Azure ML SDK. Now look around for some data that you could use to train another model, deploy it and consume it. You can look for datasets on [Kaggle](https://kaggle.com) and [Azure Open Datasets](https://azure.microsoft.com/services/open-datasets/catalog?WT.mc_id=academic-77958-bethanycheum&ocid=AID3041109).
 
 ## Rubric
 
@@ -12,4 +12,4 @@ We saw how to use the Azure ML platform to train, deploy and consume a model wit
 
 ## Acknowledgments
 
-Thanks to Microsoft for creating the open-source course [Data Science for Beginners](https:\\/\\/github.com\\/microsoft\\/Data-Science-For-Beginners). It inspires the majority of the content in this chapter.
+Thanks to Microsoft for creating the open-source course [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners). It inspires the majority of the content in this chapter.

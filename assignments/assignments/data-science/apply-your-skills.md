@@ -2,7 +2,7 @@
 
 ## Instructions
 
-So far, you have worked with the Minnesota birds dataset to discover information about bird quantities and population density. Practice your application of these techniques by trying a different dataset, perhaps sourced from [Kaggle](https:\\/\\/www.kaggle.com\\/). Build a notebook to tell a story about this dataset, and make sure to use histograms when discussing it.
+So far, you have worked with the Minnesota birds dataset to discover information about bird quantities and population density. Practice your application of these techniques by trying a different dataset, perhaps sourced from [Kaggle](https://www.kaggle.com/). Build a notebook to tell a story about this dataset, and make sure to use histograms when discussing it.
 
 ## Rubric
 
@@ -12,4 +12,4 @@ A notebook is presented with annotations about this dataset, including its sourc
 
 ## Acknowledgments
 
-Thanks to Microsoft for creating the open-source course [Data Science for Beginners](https:\\/\\/github.com\\/microsoft\\/Data-Science-For-Beginners). It inspires the majority of the content in this chapter.
+Thanks to Microsoft for creating the open-source course [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners). It inspires the majority of the content in this chapter.

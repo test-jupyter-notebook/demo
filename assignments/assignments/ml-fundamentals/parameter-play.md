@@ -27,4 +27,4 @@ There are a lot of parameters that are set by default when working with these cl
 
 ## Acknowledgments
 
-Thanks to Microsoft for creating the open-source course [ML-For-Beginners](https:\\/\\/github.com\\/microsoft\\/ML-For-Beginners). It inspires the majority of the content in this chapter.
+Thanks to Microsoft for creating the open-source course [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners). It inspires the majority of the content in this chapter.

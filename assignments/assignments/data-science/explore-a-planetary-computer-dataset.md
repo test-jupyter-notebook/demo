@@ -4,17 +4,17 @@
 
 In this section, we talked about various data science application domains - with deep dives into examples related to research, sustainability, and digital humanities. In this assignment, you'll explore one of these examples in more detail, and apply some of your learnings around data visualizations and analysis to derive insights about sustainability data.
 
-The [Planetary Computer](https:\\/\\/planetarycomputer.microsoft.com\\/) project has datasets and APIs that can be accessed with an account - request one for access if you want to try the bonus step of the assignment. The site also provides an [Explorer](https:\\/\\/planetarycomputer.microsoft.com\\/explore) feature that you can use without creating an account. 
+The [Planetary Computer](https://planetarycomputer.microsoft.com/) project has datasets and APIs that can be accessed with an account - request one for access if you want to try the bonus step of the assignment. The site also provides an [Explorer](https://planetarycomputer.microsoft.com/explore) feature that you can use without creating an account. 
 
 
 `Steps:`
 The Explorer interface (shown in the screenshot below) lets you select a dataset (from provided options), a preset query (to filter data) and a rendering option (to create a relevant visualization). In this assignment, your task is to:
 
-1. Read the [Explorer documentation](https:\\/\\/planetarycomputer.microsoft.com\\/docs\\/overview\\/explorer\\/) - understand options.
-2. Explore the dataset [Catalog](https:\\/\\/planetarycomputer.microsoft.com\\/catalog) - learn the purpose of each.
+1. Read the [Explorer documentation](https://planetarycomputer.microsoft.com/docs/overview/explorer/) - understand options.
+2. Explore the dataset [Catalog](https://planetarycomputer.microsoft.com/catalog) - learn the purpose of each.
 3. Use the Explorer - pick a dataset of interest, select a relevant query & rendering option.
 
-![The Planetary Computer Explorer](https:\\/\\/test-jupyter-notebook.github.io\\/static\\/images\\/planetary-computer-explorer.png)
+![The Planetary Computer Explorer](https://test-jupyter-notebook.github.io/static/images/planetary-computer-explorer.png)
 
 Your Task:
 
@@ -42,4 +42,4 @@ All five core questions were answered. The student clearly identified how curren
 
 ## Acknowledgments
 
-Thanks to Microsoft for creating the open-source course [Data Science for Beginners](https:\\/\\/github.com\\/microsoft\\/Data-Science-For-Beginners). It inspires the majority of the content in this chapter.
+Thanks to Microsoft for creating the open-source course [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners). It inspires the majority of the content in this chapter.

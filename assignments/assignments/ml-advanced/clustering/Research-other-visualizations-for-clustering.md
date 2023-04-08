@@ -27,4 +27,4 @@ In this section, you have worked with some visualization techniques to get a gra
 
 ## Acknowledgments
 
-Thanks to Microsoft for creating the open-source course [Machine Learning for Beginners](https:\\/\\/github.com\\/microsoft\\/ML-For-Beginners). It inspires the majority of the content in this chapter.
+Thanks to Microsoft for creating the open-source course [Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners). It inspires the majority of the content in this chapter.
